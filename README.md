@@ -1,6 +1,8 @@
 # PythonASLDetection
 A Python application to detect hand gestures using OpenCV and MediaPipe. With the addition of scikit-learn detected hand symbols will be classfied in realtime to letters in the ASL Alphabet
 
+To view more information about this project please visit the [project report](ProjectReport.pdf).
+
 ## Tech Stack
 - Python 3.9
 - OpenCV
